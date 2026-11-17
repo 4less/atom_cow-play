@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794919783|3136377';
+const CACHE_VERSION = '1794919992|3066150';
 /** @type {string} */
 const CACHE_PREFIX = 'atom_cow-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
